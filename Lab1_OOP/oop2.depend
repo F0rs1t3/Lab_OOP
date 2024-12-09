@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1728497994 source:c:\users\vitalie\documents\codeblocks\oop2\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
